@@ -1,0 +1,18 @@
+# Compilação e Binários Java
+*.class
+bin/
+out/
+target/
+build/
+
+# IDEs e Editores
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
